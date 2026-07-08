@@ -12,7 +12,7 @@
 
 **Most of my production work lives in private repos** — client platforms, employer projects, and contracted work. Reach out for code samples or live demos.
 
-🌐 [davidaloba.com](https://davidaloba.com) · 💼 [LinkedIn](https://linkedin.com/in/davidaloba) · ✉️ info@davidaloba.com
+🌐 [davidaloba.com](https://davidaloba.com) · 💼 [LinkedIn](https://linkedin.com/in/davidaloba) · ✉️ hello@davidaloba.com
 
 ---
 
