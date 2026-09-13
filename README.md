@@ -5,22 +5,21 @@ fintech, media, IoT, and e-commerce. I work AI-assisted and human-verified:
 every line that reaches production is reviewed, secured, and owned by me.
 
 ## Selected work — case studies with architecture notes
-- **Covara** — real-time drone-intelligence backend: WebSockets, edge-AI
-  ingestion, geospatial queries → [case study](https://github.com/davidaloba/covara-drone-intelligence)
-- **Premium subscription platform** — recurring billing, content gating,
-  webhook reliability → [case study](https://github.com/davidaloba/subscription-billing-platform)
-- **Economic data platform** — financial & economic data platforms serving
-  Nigeria's largest business newsroom → [case study](https://github.com/davidaloba/economic-data-dashboard)
-- **Rojuascent** — luxury e-commerce: payments integration + complex
-  animation systems → [case study](https://github.com/davidaloba/rojuascent-ecommerce)
 
-More: [financial data platforms](https://github.com/davidaloba/financial-data-platforms) · [studio booking](https://github.com/davidaloba/mustardbreed-studio-booking) · [Limesoft](https://github.com/davidaloba/limesoft-website) · [Tawa Talent Partners](https://github.com/davidaloba/tawa-talent-partners)
+- **[Covara](https://github.com/davidaloba/covara-drone-intelligence)** — real-time drone-intelligence backend: WebSockets, edge-AI ingestion with model hot-reload, geospatial queries. Load-tested: 100 concurrent authenticated connections, 100% connect success, ~20–50ms round-trip
+- **[Premium Subscription Platform](https://github.com/davidaloba/subscription-billing-platform)** — recurring billing, content gating, webhook reliability. 2,862 users, ₦30.4M+ (~$19K USD) processed, +86% YoY growth
+- **[Economic Data Platform](https://github.com/davidaloba/economic-data-dashboard)** — financial & economic data platform serving Nigeria's largest business newsroom. 30M+ annual views, 470K monthly active users
+- **[Dividend Tracking & Deal Flow](https://github.com/davidaloba/financial-data-platforms)** — investor platforms with SEO-first architecture, 90+ Lighthouse scores
+- **[Rojuascent](https://github.com/davidaloba/rojuascent-ecommerce)** — luxury e-commerce: payments integration + complex animation systems
+- **[Mustard Breed](https://github.com/davidaloba/mustardbreed-studio-booking)** — studio booking platform with wallet system
 
 ## Stack
+
 TypeScript · Next.js · Node.js · Python · FastAPI · PostgreSQL · Docker · AWS
 
 ## Now
-Shipping drone-intelligence features at Covara · writing about verifying AI-generated code in
+
+Shipping current projects · writing about verifying AI-generated code in
 production at [davidaloba.com](https://davidaloba.com)
 
 📫 [LinkedIn](https://linkedin.com/in/davidaloba) · [davidaloba.com](https://davidaloba.com)
