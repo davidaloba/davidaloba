@@ -1,19 +1,25 @@
-### Hi, I'm David 👋
+# David Aloba — Senior Full-Stack Engineer
 
-**Senior Full-Stack Platform Engineer** — I build complete platform experiences across IoT, fintech, and creator economy. 5 production platforms, 10+ years professional experience. Based in Maringá, Brazil (BRT UTC-3).
+I build and run production platforms end-to-end — 8 shipped and live across
+fintech, media, IoT, and e-commerce. I work AI-assisted and human-verified:
+every line that reaches production is reviewed, secured, and owned by me.
 
-**What I build:**
-→ Real-time IoT backends (WebSockets, edge AI, drone telemetry)
-→ Subscription platforms (Paystack billing, content gating, 2,211 users)
-→ Financial data dashboards (corporate indexes, dividend tracking, deal flow)
-→ E-commerce platforms (luxury fashion, payment integration)
+## Selected work — case studies with architecture notes
 
-**Tech stack:** React 19 · Next.js 16 · TypeScript 5 · Node.js/Express · Laravel 11 · Django · PostgreSQL · Docker · GCP · AWS
+- **[Covara](https://github.com/davidaloba/covara-drone-intelligence)** — real-time drone-intelligence backend: WebSockets, edge-AI ingestion with model hot-reload, geospatial queries
+- **[Premium Subscription Platform](https://github.com/davidaloba/subscription-billing-platform)** — recurring billing, content gating, webhook reliability. 3k+ users, ₦30M+ (~$19K USD) processed, +86% YoY growth
+- **[Economic Data Platform](https://github.com/davidaloba/economic-data-dashboard)** — financial & economic data platform serving Nigeria's largest business newsroom. 30M+ annual views, 470K monthly active users
+- **[Dividend Tracking & Deal Flow](https://github.com/davidaloba/financial-data-platforms)** — investor platforms with SEO-first architecture, 90+ Lighthouse scores
+- **[Rojuascent](https://github.com/davidaloba/rojuascent-ecommerce)** — luxury e-commerce: payments integration + complex animation systems
+- **[Mustard Breed](https://github.com/davidaloba/mustardbreed-studio-booking)** — studio booking platform with wallet system
 
-**Most of my production work lives in private repos** — client platforms, employer projects, and contracted work. Reach out for code samples or live demos.
+## Stack
 
-🌐 [davidaloba.com](https://davidaloba.com) · 💼 [LinkedIn](https://linkedin.com/in/davidaloba) · ✉️ hello@davidaloba.com
+TypeScript · Next.js · Node.js · Python · FastAPI · PostgreSQL · Docker · AWS
 
----
+## Now
 
-*Open to remote senior full-stack roles at US/global companies.*
+Shipping current projects · writing about verifying AI-generated code in
+production at [davidaloba.com](https://davidaloba.com)
+
+📫 [LinkedIn](https://linkedin.com/in/davidaloba) · [davidaloba.com](https://davidaloba.com)
